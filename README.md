@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bernardo Silva
 
-**Software Engineer** from Porto, Portugal 🇵🇹
+**Software Engineer** from Lamego, Portugal 🇵🇹
 
 I'm a Software Engineer with a Bachelor's Degree in Computer Engineering and Telecommunications, currently working at **EUC Inovação Portugal** developing web solutions, collaborating on mobile applications and supporting digital innovation projects.
 
