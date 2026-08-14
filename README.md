@@ -94,9 +94,3 @@ Modern portfolio website showcasing my projects, experience and technical skills
 - 🌐 **Portfolio:** [gestama04.github.io/CURRICULO-DIGITAL](https://gestama04.github.io/CURRICULO-DIGITAL)
 - 💼 **LinkedIn:** [eng-bernardo-silva](https://www.linkedin.com/in/eng-bernardo-silva)
 - 📧 **Email:** benigestama@gmail.com
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gestama04&show_icons=true&theme=radical&hide_border=true" alt="Bernardo's GitHub Stats" />
-</div>
